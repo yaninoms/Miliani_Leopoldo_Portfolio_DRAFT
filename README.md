@@ -11,6 +11,7 @@ Below are some of the projects and technical exposure I've had so far.
 ### 🛡️ Defensive Security & Threat Intelligence
 | Skill | Associated Project (All Case Studies) |
 |-----------------------------------------------|----------------------------|
+| **Governance, Risk and Compliance** | <a href="https://docs.google.com/document/d/1UYDPBnaZludEKNmrg60eKpcnGESZ9ejRFXL5YZl51uQ/edit?usp=sharing"> Risk Management Strategy Report</a> |
 | **Network Intrusion Analysis** | <a href="https://docs.google.com/document/d/1dlFm6wCVJKop07R2y8xUNwtSW9pZXNmDwzYiPVPiJgc/edit?usp=sharing"> Malware Analysis Report</a> |
 | **Cyber Resilience Planning** | <a href="https://drive.google.com/file/d/1JC0HLlA4__ziUnMFMhi_pFrpWGZmiHsm/view?usp=sharing"> Cyber Resilience Document</a> |
 | **Incident Response Execution** | <a href="https://docs.google.com/document/d/1WKu5dEtK55UoiszEvHumOsyQ79ZVHB4vzGkxsgGH6u0/edit?usp=sharing"> Post-Incident Report</a> |
@@ -19,6 +20,7 @@ Below are some of the projects and technical exposure I've had so far.
 ### 🧠 Offensive & Purple Team Skills
 | Skill | Associated Project (All Case Studies) |
 |-------------------------------------------|----------------------------|
+| **Cybersecurity Home Lab** | <a href="https://docs.google.com/document/d/1o9yWFrog75fk4ZPY1taN0tb3PXuQfJje/edit?usp=sharing&ouid=108757470134026043588&rtpof=true&sd=true"> Offensive Lab Simulations </a> |
 | **Network Configurations** | <a href="https://docs.google.com/document/d/1yxBJD2UdGNKcShHSvLYoCgR6rnBPqxkGXWnRE7XhgNM/edit?usp=sharing"> Network Journal </a> |
 | **Secure Network Architecture** | <a href="https://docs.google.com/document/d/12rWWGhXCq5nR375hkKhXpevyoYvcaCVDds0kzaDq6GI/edit?usp=sharing"> Network Design Proposal </a> |
 
